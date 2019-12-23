@@ -1,0 +1,27 @@
+<subscriber>
+	<name>name1</name>
+	<email>mail1@mail.com</email>
+	<topics>
+		<topic>cs.CV</topic>
+		<topic>cs.LG</topic>
+		<topic>stat.ML</topic>
+	</topics>
+	<keywords>
+		<keyword>keyword1</keyword>
+		<keyword>keyword2</keyword>
+	</keywords>
+</subscriber>
+
+<subscriber>
+	<name>name2</name>
+	<email>mail2@mail.com</email>
+	<topics>
+		<topic>cs.CV</topic>
+		<topic>cs.LG</topic>
+		<topic>stat.ML</topic>
+	</topics>
+	<keywords>
+		<keyword>keyword1</keyword>
+		<keyword>keyword2</keyword>
+	</keywords>
+</subscriber>

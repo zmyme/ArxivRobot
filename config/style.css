@@ -1,0 +1,109 @@
+<head>
+<style type="text/css">
+paper-group
+{
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: white;
+    background-color: #3f3f3f;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size: 2.0em;
+    border-radius:10px;
+}
+/*abstract
+{
+    color:black;
+    text-align:center;
+    background-color:#d0e4fe;
+}
+*/
+paper-section {
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    /*border: 1px solid green;
+    background-color: lightgrey;*/
+}
+
+paper-title {
+    float: left;
+    width: 100%;
+    /*border: 1px solid green;
+    background-color: lightgrey;*/
+    font-family:Arial,sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
+
+paper-authors {
+    float: left;
+    width: 90%;
+    /*border: 1px solid green;
+    background-color: lightgrey;*/
+    font-family:Arial,sans-serif;
+    font-size: 1.0em;
+    color: #900;
+}
+
+paper-pdf-link {
+    float: right;
+    width: 10%;
+    text-align: right;
+    /*border: 1px solid green;
+    background-color: lightgrey;*/
+    font-family:Arial,sans-serif;
+    font-size: 1.0em;
+    color: #900;
+}
+
+paper-abstract {
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #EEFFEE;
+    font-family:Arial,sans-serif;
+    font-size: 1.2em;
+    color: black;
+    text-align: justify;
+    border-radius:10px;
+}
+
+paper-comments {
+    float: left;
+    width: 50%;
+    font-family:Arial,sans-serif;
+    font-size: 1.0em;
+    color: black;
+    word-break:break-all;
+}
+
+paper-subjects {
+    float: right;
+    text-align: right;
+    width: 50%;
+    font-family:Arial,sans-serif;
+    font-size: 1.0em;
+    color: black;
+    word-break:break-all;
+}
+
+
+a:link { text-decoration: none}
+a:active { text-decoration:blink}
+a:hover { text-decoration:underline}
+a:visited { text-decoration: none}
+a {
+    color: black;
+}
+</style>
+</head>

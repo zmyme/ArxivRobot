@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+cache/
+feeds/
+config/email_session.xml
+config/subscriber.xml
+config.py
